@@ -1,0 +1,42 @@
+body {margin-left: 10%;
+      margin-right: 10%;}
+
+
+h3 {text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+nav {color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-right:40px;}
+
+
+a {display: inline;
+    margin: 5px;}
+
+
+#l4 {float: right;}
+
+
+
+aside {height: 400px;
+       width: 150px;
+       float: right;}
+
+
+aside img {height: 50px;
+           width: 150px;}
+
+
+
+article img {height: 200px;
+             width: 80%;}
+
+
+article p {text-align: left;
+           margin-right: 250px;}
+
+
+footer {text-align: center;}
+  
